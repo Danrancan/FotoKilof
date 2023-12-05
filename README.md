@@ -139,6 +139,8 @@ python -m pip install pywin32 fotokilof
 Install requirements:
 ```bash
 brew install imagemagick python@3.11 python-tk@3.11
+python3 -m pip install --upgrade fotokilof
+python3 -m fotokilof
 ```
 
 #### FreeBSD
